@@ -3,7 +3,7 @@
 Plugin Name: Inbound Now - Edit Core WordPress Email Templates
 Plugin URI: http://www.inboundnow.com/
 Description: Lets users edit/modify core WordPress and Inbound Now email templates.
-Version: 1.0.6
+Version: 1.0.1
 Author: Inbound Now
 Contributors: Hudson Atwell
 Author URI: http://www.inboundnow.com/
