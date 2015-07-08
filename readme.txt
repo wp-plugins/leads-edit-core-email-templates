@@ -7,7 +7,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: wordpress core, email templates, lead notifications, leads, inbound marketing, inbound now
 Requires at least: 3.8
 Tested up to: 4.2
-Stable tag: 1.0.6
+Stable tag: 1.0.7
 
 Lets users edit/modify core WordPress and Leads email templates. 
 
@@ -39,6 +39,10 @@ At the moment these features are built into Leads, so there is no reason for Inb
 4. Example of Inbound Form integration (Does not work with Inbound Pro)
 
 == Changelog ==
+
+= 1.0.7 =
+
+Debug activation error
 
 = 1.0.6 =
 
