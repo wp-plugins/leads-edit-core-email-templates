@@ -17,8 +17,6 @@ Requires [WordPress Leads Plugin ](http://wordpress.org/support/plugin/leads ) t
 
 This Inbound Now plugin allows users to edit core WordPress & core Inbound Now's Leads Plugin's email templates. This extension also extends Inbound Form email confirmations, allowing users to create & edit html emails sent to users after successful form submissions. 
 
-At the moment these features are built into Leads, so there is no reason for Inbound Now users to download it. But very soon we are removing these features from core. 
-
 [Follow Development on Twitter ](https://twitter.com/atwellpub )
 
 
